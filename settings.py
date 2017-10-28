@@ -1,4 +1,4 @@
-TRACK_TERMS = ["trump", "clinton", "sanders", "hillary clinton", "bernie", "donald trump"]
+TRACK_TERMS = ["bitcoin"]
 CONNECTION_STRING = ""
 CSV_NAME = "tweets.csv"
 TABLE_NAME = "election"
